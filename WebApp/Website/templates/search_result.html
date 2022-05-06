@@ -1,0 +1,28 @@
+{% extends "base.html" %} {% block title %}Result{% endblock %} {% block content
+%}
+<div class="phone" style="color: #fefbfb;">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='recommendation.css') }}">
+  <center>
+    <a href="/search">
+      <img src="static/logo.png" alt="logo" style="width:50%">
+    </a>
+  </center>
+  <center>
+    <h2>Here's What we Found:</h2>
+  </center>
+  <table class="table table-hover table-dark">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Launch</th>
+        <th>Pay/Monthly</th>
+    </tr>
+    <tr>
+        <td>{{search_text[['model']]}}</td>
+        <td>{{search_text['price']}}</td>
+        <td>{{search_text['launch']}}</td>
+        <td>{{search_text['url']}}</td>
+
+    </tr>
+</div>
+{% endblock %}

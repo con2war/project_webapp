@@ -1,0 +1,30 @@
+{% extends "adminbase.html" %} {% block title %}Profiles{% endblock %} {% block content
+%}
+<form action="/adminupdate/{{first_name_to_update.id}}" method="POST">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='login.css') }}">
+    <img src="static\logo.png" class="card-img-top" alt="...">
+    <main class="form-signin">
+
+        <body class="text-center">
+            <h2>Update User</h2>
+            <div class="form-floating">
+                <input type="email" class="form-control" id="email" name="email" placeholder="Enter New Email" />
+                <label for="floatingPassword">New Name</label>
+            </div>
+            <div class="form-floating">
+                <input type="email" class="form-control" id="email1" name="email1" placeholder="Confirm New Email" />
+                <label for="floatingPassword">Confirm name</label>
+            </div>
+            <div class="form-floating">
+                <input type="email" class="form-control" id="email" name="email" placeholder="Enter New Email" />
+                <label for="floatingPassword">New Email</label>
+            </div>
+            <div class="form-floating">
+                <input type="email" class="form-control" id="email1" name="email1" placeholder="Confirm New Email" />
+                <label for="floatingPassword">Confirm Email</label>
+            </div>
+            <button class="w-100 btn btn-lg btn-primary" type="submit">Submit</button>
+        </body>
+</form>
+</main>
+{% endblock %}

@@ -1,0 +1,68 @@
+{% extends "adminbase.html" %} {% block title %}Profiles{% endblock %} {% block content
+%}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='dashboard.css') }}">
+<div class="container">
+   <div class="row">
+      <div class="col md-12">
+         <div class="jumbotron p-3">
+            <h3>Manage <b>Users </b></h3>
+            <table class="table table-hover table-dark">
+               <tr>
+                  <th>ID</th>
+                  <th>Name</th>
+                  <th>Email</th>
+                  <th>Action</th>
+               </tr>
+               {% for row in users %}
+               <tr>
+                  <td>{{row.id}}</td>
+                  <td>{{row.first_name}}</td>
+                  <td>{{row.email}}</td>
+                  <td>
+                     <a href="/update/{{row.id}}" class="btn btn-warning btn-xs" data-toggle="modal"
+                        data-target="#modaledit{{row.id}}">Edit</a>
+                     <a href="/admindelete/{{row.id}}" class="btn btn-danger btn-xs"
+                        onclick="return confirm('Are You Sure To Delete ?')">Delete</a>
+                  </td>
+               </tr>
+               <!-- Modal Edit Employee-->
+               <div id="modaledit{{row.id}}" class="modal fade" role="dialog">
+                  <div class="modal-dialog">
+                     <div class="modal-content">
+                        <div class="modal-header">
+                           <h4 class="modal-title">Update Information</h4>
+                        </div>
+                        <div class="modal-body">
+                           <form action="{{url_for('updateuser.adminupdate')}}" method="POST">
+                              <div class="form-group">
+                                 <label>Name:</label>
+                                 <input type="hidden" name="id" value="{{row.id}}">
+                                 <input type="text" class="form-control" name="name" value="{{row.first_name}}">
+                              </div>
+                              <div class="form-group">
+                                 <label>Email:</label>
+                                 <input type="text" class="form-control" name="email" value="{{row.email}}">
+                              </div>
+                              <div class="form-group">
+                                 <button class="btn btn-primary" type="submit">Update</button>
+                              </div>
+                           </form>
+                        </div>
+                        <div class="modal-footer">
+                           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               {% endfor %}
+            </table>
+         </div>
+         </table>
+      </div>
+   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "base.html" %} {% block title %}Error{% endblock %} {% block content
+    %}
+    <html>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='home.css') }}">
+<head>
+</head>
+
+<body>
+    <p>
+    <a href="/recommendor">
+        <img src="static/logo.png" alt="logo" style="width:50%">
+      </a>
+    </p>
+</body>
+
+</html>
+
+<title>ERROR!</title>
+<h1>The Phone you have requested is not in our database, try again!</h1>
+    {% endblock %}

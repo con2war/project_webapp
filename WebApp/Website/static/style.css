@@ -1,0 +1,25 @@
+h2 {
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #f8f7f7;
+    font-weight: bold;
+    margin-top: 30px;
+ }
+body {
+      background-image: url('recommendation.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+}
+.info-button {
+	width: 50mm;
+	padding: 10px;
+	position: absolute;
+	left: 650px;
+}
+.phone-button {
+	width: 50mm;
+	padding: 10px;
+	position: absolute;
+	left: 650px;
+}
+

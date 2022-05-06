@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
+%}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='home.css') }}">
+<center>
+  <a href="/recommendor">
+    <img src="static/logo.png" alt="logo" style="width:50%">
+  </a>
+</center>
+
+<head>
+</head>
+
+<body>
+  <center>
+    <p>
+      "Click to get Recommendation"
+    </p>
+  </center>
+</body>
+
+{% endblock %}

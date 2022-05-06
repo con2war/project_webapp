@@ -1,0 +1,224 @@
+ID,model,price,camera,display,battery
+1,huawei p50 pro,$907,144,93,81
+2,xiaomi mi 11 ultra,$1200,143,87,69
+3,huawei mate 40 pro+,$1363,139,85,89
+4,apple iphone 13 pro max,$1099,137,99,89
+5,apple iphone 13 pro,$999,137,98,76
+6,huawei mate 40 pro,$1199,136,87,89
+7,google pixel 6 pro,$899,135,90,85
+8,vivo x70 pro+,$833,135,91,81
+9,asus smartphone for snapdragon insiders,$1499,133,78,85
+10,xiaomi mi 10 ultra,$803,133,73,90
+11,google pixel 6,$599,132,87,81
+12,huawei p40 pro,$1099,132,85,90
+13,oppo find x3 pro,$1149,131,88,66
+14,vivo x70 pro (mediatek),$651,131,74,75
+15,vivo x50 pro+,$757,131,74,75
+16,apple iphone 13,$799,130,93,74
+17,apple iphone 13 mini,$699,130,90,62
+18,apple iphone 12 pro max,$1099,130,88,78
+19,apple iphone 12 pro,$999,128,87,78
+20,vivo x60 pro+,$757,128,89,74
+21,xiaomi mi 10 pro,$999,128,78,79
+22,oppo find x2 pro,$1199,126,76,92
+23,samsung galaxy s20 ultra 5g (exynos),$1359,126,87,95
+24,honor 30 pro+,$757,125,81,90
+25,apple iphone 11 pro max,$1099,124,84,78
+26,oneplus 9 pro,$969,124,89,65
+27,samsung galaxy z fold3 5g,$1799,124,89,95
+28,huawei mate 30 pro 5g,$1045,123,91,90
+29,samsung galaxy s21 ultra 5g (snapdragon),$1199,123,91,70
+30,apple iphone 12 mini,$699,122,85,59
+31,apple iphone 12,$799,122,85,79
+32,honor v30 pro,$590,122,81,55
+33,huawei mate 30 pro,$1099,121,78,78
+34,oppo reno6 pro 5g,$799,121,86,85
+35,oppo reno6 pro+,$606,121,86,85
+36,samsung galaxy s21 ultra 5g (exynos),$1259,121,91,57
+37,xiaomi mi cc9 pro premium edition,$530,121,82,65
+38,asus zenfone 8,$629,120,81,64
+39,google pixel 5,$699,120,74,58
+40,samsung galaxy s21 fe 5g (snapdragon),$699,120,90,82
+41,samsung galaxy note20 (exynos),$959,120,92,89
+42,samsung galaxy note20 ultra 5g (exynos),$1309,120,89,89
+43,vivo x60 pro 5g (snapdragon),$799,120,81,86
+44,xiaomi mi 11,$799,120,87,49
+45,xiaomi redmi k30 pro zoom edition,$575,120,81,65
+46,apple iphone 11,$699,119,90,78
+47,samsung galaxy s21+ 5g (snapdragon),$999,119,92,85
+48,samsung galaxy s21 5g (snapdragon),$799,119,91,69
+49,asus zenfone 8 flip,$799,118,85,63
+50,oneplus 8 pro,$899,118,88,85
+51,samsung galaxy s20+ (exynos),$1009,118,92,89
+52,vivo x60 pro 5g (exynos),$799,118,86,65
+53,xiaomi mi 10t pro 5g,$599,118,72,72
+54,motorola edge+,$999,117,91,82
+55,samsung galaxy note20 ultra 5g (snapdragon),$1299,117,90,89
+56,samsung galaxy note 10+ (exynos),$1109,117,90,89
+57,tcl 20 pro 5g,$549,117,89,65
+58,xiaomi 11t pro,$699,117,87,81
+59,huawei p30 pro,$999,116,82,85
+60,oneplus nord 2 5g,$399,116,84,65
+61,samsung galaxy s21 5g (exynos),$859,116,84,63
+62,samsung galaxy s21+ 5g (exynos),$1059,116,82,89
+63,samsung galaxy note 10+ 5g (exynos),$1199,116,91,89
+64,samsung galaxy s10 5g (exynos),$1199,116,91,89
+65,asus zenfone 7 pro,$799,115,78,54
+66,oneplus 9,$729,115,88,77
+67,oppo find x3 neo,$799,115,85,81
+68,oppo reno 10x zoom,$799,115,88,85
+69,samsung galaxy s20 fe (exynos),$659,115,88,81
+70,sony xperia 1 iii,$1299,115,86,89
+71,oneplus 7t pro,$759,114,84,85
+72,oneplus 7 pro,$669,114,88,85
+73,vivo x51 5g,$799,114,87,60
+74,google pixel 4,$799,113,90,90
+75,honor 20 pro,$599,113,85,71
+76,samsung galaxy s10+ (exynos),$1009,113,92,85
+77,huawei p40,$799,112,84,71
+78,huawei mate 20 pro,$999,112,88,71
+79,oppo reno5 pro+ 5g,$605,112,83,71
+80,samsung galaxy note20 (snapdragon),$999,112,91,89
+81,sony xperia 1 ii,$1199,112,92,85
+82,google pixel 4a,$349,111,78,45
+83,huawei mate 20 x,$899,111,80,55
+84,oneplus 8t,$599,111,89,71
+85,sony xperia 5 ii,$949,111,78,85
+86,xiaomi mi 11i,$699,111,83,71
+87,xiaomi mi 11 lite 5g,$399,111,75,67
+88,lg wing,$999,110,88,71
+89,xiaomi mi 9,$469,110,72,65
+90,huawei p20 pro,$899,109,79,75
+91,samsung galaxy z fold2 5g,$1999,109,93,95
+92,oneplus nord,$399,108,80,81
+93,oppo a94 5g,$359,108,80,82
+94,oppo reno4 pro 5g,$799,108,80,82
+95,xiaomi 11t,$499,108,89,89
+96,xiaomi redmi k40 pro+,$560,108,81,89
+97,oppo reno6 5g,$499,107,80,96
+98,zte axon 30 ultra,$749,107,78,89
+99,apple iphone xs max,$1099,106,90,89
+100,realme gt neo 2 5g,$469,106,81,94
+101,xiaomi redmi note 10 pro,$279,106,74,84
+102,motorola edge 20 pro,$699,105,80,76
+103,oppo find x3 lite,$449,105,79,68
+104,oppo reno4 5g,$549,105,80,85
+105,oppo find x2 neo,$699,105,80,85
+106,realme gt neo,$273,105,80,65
+107,samsung galaxy a72,$449,105,80,85
+108,samsung galaxy z flip,$1380,105,90,95
+109,vivo v21 5g,$419,105,80,55
+110,asus zenfone 6,$499,104,81,55
+111,apple iphone se (2020),$399,103,81,65
+112,htc u12+,$799,103,81,78
+113,poco x3 nfc,$229,103,82,55
+114,realme 8 pro,$299,103,78,52
+115,samsung galaxy note 9,$1009,103,92,89
+116,xiaomi mi mix 3,$599,103,84,55
+117,google pixel 3,$799,102,88,65
+118,oneplus nord ce 5g,$299,102,80,89
+119,samsung galaxy a52 5g,$499,102,79,67
+120,xiaomi redmi k20 pro,$379,102,75,45
+121,apple iphone xr,$749,101,85,78
+122,google pixel 3a,$399,101,82,65
+123,lg v60 thinq 5g,$799,100,80,65
+124,oppo reno5 pro 5g,$515,100,81,81
+125,samsung galaxy s9+,$959,100,91,89
+126,google pixel 2,$649,99,84,85
+127,lg g8 thinq,$819,99,80,85
+128,xiaomi mi 8,$499,99,74,65
+129,oneplus 6t,$549,98,71,85
+130,xiaomi mi 10t 5g,$499,98,71,85
+131,apple iphone x,$999,97,88,78
+132,lg v40 thinq,$899,97,81,75
+133,lenovo z6 pro,$499,97,71,75
+134,oneplus 6,$529,96,69,85
+135,asus rog phone 2,$899,95,65,55
+136,realme x2 pro,$399,95,61,55
+137,sony xperia 5,$799,95,55,65
+138,apple iphone 8 plus,$799,94,85,78
+139,samsung galaxy note 8,$1009,94,90,89
+140,vivo y72 5g,$319,94,55,89
+141,xiaomi redmi note 10s,$199,92,41,86
+142,xiaomi pocophone f1,$329,91,45,85
+143,asus zenfone 5,$399,90,49,65
+144,general mobile gm9 pro,$400,90,48,65
+145,google pixel,$649,90,75,85
+146,htc u11,$649,90,74,89
+147,samsung galaxy a12,$179,90,51,80
+148,vivo x20 plus,$530,90,55,85
+149,xiaomi mi note 3,$349,90,51,85
+150,samsung galaxy a22 5g,$259,89,53,82
+151,samsung galaxy s7 edge,$799,89,78,89
+152,apple iphone 7 plus,$769,88,85,78
+153,samsung galaxy a71 5g,$599,88,70,82
+154,samsung galaxy a9,$599,88,70,82
+155,motorola one zoom,$449,87,62,78
+156,samsung galaxy a51 5g,$499,87,41,85
+157,sony xperia 1,$999,87,85,85
+158,vsmart live,$304,87,71,70
+159,zte axon 20 5g,$449,87,63,72
+160,crosscall trekker-x4,$699,86,55,73
+161,nokia 8.3 5g,$699,86,55,84
+162,lg g7 thinq,$749,85,65,81
+163,nokia 7.2,$349,85,62,84
+164,nokia 9 pureview,$699,85,68,84
+165,black shark 2,$549,84,42,65
+166,lg v30,$829,84,75,85
+167,samsung galaxy a71,$479,84,81,81
+168,xiaomi redmi note 8 pro,$249,84,55,75
+169,motorola moto z2 force,$720,82,62,81
+170,samsung galaxy s6 edge,$849,82,81,85
+171,motorola moto g7 plus,$329,80,65,75
+172,crosscall core-x4,$449,79,55,71
+173,samsung galaxy a50,$349,76,60,78
+174,apple iphone 6,$649,73,81,65
+175,google nexus 6p,$649,73,81,81
+176,meizu pro 7 plus,$550,71,60,45
+177,lava z25,$154,70,35,55
+178,samsung galaxy s5,$679,70,63,82
+179,motorola moto g5s,$249,69,34,81
+180,apple iphone 5s,$649,68,55,55
+181,nokia 8,$599,68,60,71
+182,wiko view 3 pro,$249,67,32,60
+183,fairphone 3,$450,66,45,45
+184,altice s61,$159,56,30,42
+185,huawei nova 6 5g,$576,56,55,65
+186,samsung galaxy s8,$809,56,81,75
+187,meitu t9,$515,54,65,70
+188,meitu v6,$772,54,65,75
+189,intex aqua selfie,$89,54,60,30
+190,black shark 4s pro,$727,54,72,66
+191,honor magic3 pro +,$1212,52,90,95
+192,black shark 4 pro,$605,52,72,70
+193,xiaomi mi 10s,$499,51,65,80
+194,asus rog phone 5,$799,51,82,75
+195,asus rog phone 3,$999,50,70,75
+196,lenovo legion phone 2 pro,$799,49,53,79
+197,xiaomi redmi k40 gaming,$303,49,62,85
+198,oneplus 8,$699,49,70,85
+199,nubia redmagic 6 pro,$699,48,77,81
+200,nubia red magic 5s,$579,48,70,81
+201,lenovo legion phone pro,$899,48,80,79
+202,realme gt 5g,$449,47,84,74
+203,motorola razr,$1499,46,91,89
+204,black shark 3 pro,$899,46,61,85
+205,black shark 2 pro,$599,46,55,85
+206,nubia red magic 3s,$479,45,75,81
+207,tcl 10 pro,$449,45,83,74
+208,microsoft surface duo,$1399,45,74,95
+209,fairphone 4,$579,44,69,68
+210,realme c21,$119,44,43,62
+211,samsung galaxy m51,$399,42,55,88
+212,xiaomi redmi note 10,$199,42,42,87
+213,oppo a74,$249,42,55,86
+214,wiko power u30,$179,40,40,86
+215,oppo a74 5g,$299,40,55,78
+216,xiaomi redmi note 10 5g,$229,40,45,78
+217,oppo a54 5g,$259,40,45,76
+218,vivo y20s,$199,39,40,75
+219,huawei p40 lite,$279,39,41,73
+220,wiko power u20,$159,39,38,70
+221,motorola moto g9 power,$229,37,35,70
+222,realme c11,$119,37,30,61
+223,xiaomi redmi 9,$159,37,25,54

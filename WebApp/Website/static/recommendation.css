@@ -1,0 +1,23 @@
+a {
+	align-items: center;
+}
+h2 {
+	text-align: center;
+	color: white;
+}
+h3 {
+	text-align: center;
+	color: white;
+}
+body {
+	background: url('recommendation.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.info-button {
+	width: 50mm;
+	padding: 10px;
+	position: absolute;
+	left: 650px;
+}
